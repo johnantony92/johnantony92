@@ -1,10 +1,28 @@
-- 👋 Hi, I’m john antony
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m john antony
 
-<!---
-johnantony92/johnantony92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Full Stack Engineer working in web development and  started his journey into web3
+
+ I’m currently  working on all kinda web3 projects 
+ 
+ 🌱 I’m perpetually learning HTML and JavaScript
+ 
+ 💞️ I’m looking to collaborate on web3 projects
+ 
+ Runs trustinblockchain.com
+ 
+ 💬 Ask me about
+ 
+- Javascript
+- Web 3
+- Solidity
+- Decentralization
+- .net
+- C#
+- Azure
+- Football
+
+📫 How to reach me ...
+- johnymail92@gmail.com
+- discord john#0599
+
+

@@ -4,7 +4,8 @@ Certainly! Here’s a more polished version:
 
 I am a Full Stack Engineer with extensive experience in the .NET framework, though my expertise is not limited to it. I have a keen interest in Web3 technologies  .NET and UI frameworks.
 
-Used to run trustinblockchain.com,currently focused on building Caffeine Collective.
+Used to run trustinblockchain.com.
+Also intreseted in llm models and its use cases.
 
 💬 Feel free to reach out to me about:
 

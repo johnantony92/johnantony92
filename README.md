@@ -6,7 +6,7 @@ I'm a seasoned full-stack developer with over 10 years of experience building en
 
 ## 🚀 What I Do
 
-- 🧱 Build secure and scalable apps using **.NET Core**, **C#**, and modern JavaScript frameworks like **Next.js** and **React**
+- 🧱 Build secure and scalable apps using **.NET Core**, **C#**,**Node.js**,and modern JavaScript frameworks like **Next.js** and **React**
 - 🧠 Work with **Python** for scripting, automation, and AI integrations
 - ☁️ Extensive experience with **Microsoft Azure**, including **Azure AD B2C**, **Azure Functions**, and **Data Factory**
 - 🤖 Build AI-powered tools with **Azure OpenAI**, **Semantic Kernel**, and micro-agent architecture

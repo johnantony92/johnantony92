@@ -1,39 +1,34 @@
-👋 Hi, I'm john antony
+# 👋 Hi, I'm John Antony
 
-I am a Full Stack Engineer with extensive experience in the .NET framework, though my expertise is not limited to it. I have a keen interest in Web3 technologies  .NET and UI frameworks.
+Welcome to my GitHub!
 
-Used to run trustinblockchain.com.
+I'm a seasoned full-stack developer with over 10 years of experience building enterprise-grade web applications and modern MVPs. I’m passionate about clean architecture, automation, and integrating AI into real-world solutions.
 
-Also intreseted in llm models and its use cases.
+## 🚀 What I Do
 
-💬 Feel free to reach out to me about:
+- 🧱 Build secure and scalable apps using **.NET Core**, **C#**, and modern JavaScript frameworks like **Next.js** and **React**
+- 🧠 Work with **Python** for scripting, automation, and AI integrations
+- ☁️ Extensive experience with **Microsoft Azure**, including **Azure AD B2C**, **Azure Functions**, and **Data Factory**
+- 🤖 Build AI-powered tools with **Azure OpenAI**, **Semantic Kernel**, and micro-agent architecture
+- ⚙️ Automate workflows using **Power Automate**, **n8n**
+- 🎯 Focused on performance, testing, and clean, maintainable code
 
-JavaScript
+## 🧠 Certification
 
-Web3
+- 🏅 **Google Cloud - Generative AI Leader**  
+  Validated knowledge in building responsible AI-powered systems and solutions.
 
-Angular
+## 🌱 Currently Working On
 
-Remix
+- [Caffeine Collective](https://www.caffeinecollective.coffee) – A minimalist coffee community platform built with **Remix**, **Supabase**, and **Tailwind CSS** (MVP recently launched)
 
-Decentralization
+## 📫 Let’s Connect
 
-.NET
+- 💼 [LinkedIn](https://www.linkedin.com/in/john-antony-07a61682/)
+- 📧 Email: johnymail92@gmail.com
 
-C#
+---
 
-Azure
+> _“Build smart. Write clean. Stay curious.”_
 
-Git
-
-Football
-
-Cycling
-
-Coffee
-
-📫 You can contact me at:
-
-Email: johnymail92@gmail.com
-
-Discord: john#0599
+Thanks for stopping by! ⭐

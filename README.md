@@ -20,7 +20,7 @@ I'm a seasoned full-stack developer with over 10 years of experience building en
 
 ## 🌱 Currently Working On
 
-- [Caffeine Collective](https://www.caffeinecollective.coffee) – A minimalist coffee community platform built with **Remix**, **Supabase**, and **Tailwind CSS** (MVP recently launched)
+- [Caffeine Collective](https://www.caffeinecollective.coffee) – A minimalist coffee community platform built with **Nextjs**, **Supabase**, and **Tailwind CSS** (MVP recently launched)
 
 ## 📫 Let’s Connect
 
